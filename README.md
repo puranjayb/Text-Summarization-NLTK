@@ -18,6 +18,7 @@
 ```
 - Make sure you are running **Python Version 3.9.0**
 ```bash
+These commands are for windows user
     pip install virtualenv
     virtualenv Summarization
     .\Summarization\Scripts\activate
