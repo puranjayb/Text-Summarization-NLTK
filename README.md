@@ -22,7 +22,7 @@
     virtualenv Summarization
     .\Summarization\Scripts\activate
 
-    You may need to give access permission visit [here](https://stackoverflow.com/questions/18713086/virtualenv-wont-activate-on-windows#:~:text=To%20fix%20it%2C%20you%20should%20try%20executing%20Set-ExecutionPolicy,more%20unsafe%2C%20but%20recommended%20by%20MS%20Tech%20Support.) for that
+    You may need to give access permission visit [here](https://tinyurl.com/ind3113) for that
 ```
 - Install the required libraries and modules
 ```bash
