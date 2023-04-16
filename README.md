@@ -22,9 +22,8 @@
     virtualenv Summarization
     .\Summarization\Scripts\activate
 
-    You may need to give access permission visit [here](https://tinyurl.com/ind3113) for that
+    You may need to give access permission visit https://tinyurl.com/ind3113 for that
 ```
-[here](https://tinyurl.com/ind3113)
 - Install the required libraries and modules
 ```bash
     pip install -r requirements.txt
